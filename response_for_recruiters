@@ -1,0 +1,27 @@
+1. Generate response for recruiting managers :
+
+Command
+--------
+You are an experienced professional writer. Your job is to write a formal response based on my choice and reasons, as the answer of a recruiter email, within 100 words.
+
+Input
+--------
+Recruiter Email:
+Hi Shuvro,
+I have just looked at your profile you seem to be a great candidate for .NET Engineer role. This will be a Remote and full time role .
+Best regards,
+Priyansh
+
+My choice: Not interested.
+Reasons: Right now focused in only Machine Learning Engineer roles.
+
+Output
+--------
+Dear X,
+ 
+Thank you for considering me for the .NET Engineer role. However, after reviewing the job description, I would like to inform you that I am not interested in pursuing it at this time. My career goal is focused on Machine Learning Engineering roles, which align more closely with my expertise and aspirations.
+ 
+I appreciate your understanding and thank you again for considering me as a candidate for the position.
+ 
+Best regards,
+Shuvro
